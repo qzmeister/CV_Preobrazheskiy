@@ -4,7 +4,8 @@
 
 📧 Email: preobrazhensky.k@gmail.com
 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/qzmeister)
-📱 Twitter: [@qzmeister](https://twitter.com/qzmeister)
+📱 Telegram: [@qzmeister](https://t.me/qzmeister)
+
 
 ## SUMMARY
 
