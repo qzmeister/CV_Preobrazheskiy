@@ -2,10 +2,9 @@
 
 ## CONTACTS
 
-📧 Email: preobrazhensky.k@gmail.com
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/qzmeister)
-📱 Telegram: [@qzmeister](https://t.me/qzmeister)
-
+- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/qzmeister)
+- 📱 Telegram: [@qzmeister](https://t.me/qzmeister)
+- 📧 Email: preobrazhensky.k@gmail.com
 
 ## SUMMARY
 
