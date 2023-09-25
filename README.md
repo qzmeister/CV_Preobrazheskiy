@@ -1,20 +1,20 @@
 # Konstantin Preobrazhenskiy
 
-## CONTACTS
-
 - 🔗LinkedIn: [Profile](https://www.linkedin.com/in/qzmeister)
 - 📱Telegram: [@qzmeister](https://t.me/qzmeister)
 - 📧Email: preobrazhensky.k@gmail.com
 
-## SUMMARY
+  
+## Skills
 
-Experienced Manual QA Tester with a background in regression testing, mobile testing, and a strong focus on quality assurance. Skilled in writing test cases, using Git, and actively learning SQL and Java. Seeking opportunities in CIS or European countries for career growth, particularly interested in automation testing.
+- Testing Regression | Mobile(Android, iOS) | Web | Integration | Smoke | Functional | Test cases writing
+- Charles Proxy | Postman | Testrail | Git | Java | Selenium | Figma | JIRA | Slack | MS Office
+- Russian(native) | English(B1)
 
-## EXPERIENCE
-
-**Manual QA Tester**  
-*Yandex Eats*  
-*Feb 2021 — Present*
+## Experience
+**<center>Software Manual QA Engineer**  
+*Yandex Eats*   
+*Feb 2021 — Present*</center>
 
 - Conducted regression testing for iOS, Android, Desktop, and Mobile Web applications.
 - Utilized Charles and DevTools for testing.
@@ -23,9 +23,12 @@ Experienced Manual QA Tester with a background in regression testing, mobile tes
 - Aspiring to transition into automation testing.
 - Able to read technical documentation in English and possess good written English skills.
 
-**Support Team Leader**  
+________________________________________________________________________________________
+
+
+**<center>Support Team Leader**  
 *Yandex Eats*  
-*Sep 2019 — Feb 2021*
+*Sep 2019 — Feb 2021*</center>
 
 - Supervised the work of the first-line support group.
 - Initiated improvements in KPIs and other team metrics.
@@ -33,22 +36,11 @@ Experienced Manual QA Tester with a background in regression testing, mobile tes
 - Calculated bonuses.
 - Resolved force majeure situations.
 
-## SKILLS
+## Education
+**<center>Bachelor of Applied Computer Science in Economics**  
+*Voronezh Institute of Law and Economics*  
+*09/19 - 05/23*</center>
 
-- Regression Testing
-- Mobile Testing
-- Charles Proxy
-- Postman
-- Test Case Writing
-- Git
-- Self-learned SQL and Java
+- Bachelor of Applied Computer Science in Economics
 
-## EDUCATION
-
-**Bachelor of Applied Computer Science in Economics**  
-*Voronezh Institute of Law and Economics*
-
----
-
-*Updated as of 09/23*
 
